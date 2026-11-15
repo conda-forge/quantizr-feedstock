@@ -11,7 +11,7 @@ Summary: Fast library for converting RGBA images to 8-bit palette images
 
 Development: https://github.com/DarthSim/quantizr
 
-Documentation: https://github.com/DarthSim/quantizr/blob/v%7B%7B%20version%20%7D%7D/README.md
+Documentation: https://github.com/DarthSim/quantizr/blob/v1.4.3/README.md
 
 Fast library for converting RGBA images to 8-bit palette images. Written in Rust; can be used in C programs.
 
@@ -44,6 +44,13 @@ Current build status
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=30110&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/quantizr-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_64_" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>osx_arm64</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=30110&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/quantizr-feedstock?branchName=main&jobName=osx&configuration=osx%20osx_arm64_" alt="variant">
                 </a>
               </td>
             </tr>
