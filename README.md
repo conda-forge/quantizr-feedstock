@@ -11,7 +11,7 @@ Summary: Fast library for converting RGBA images to 8-bit palette images
 
 Development: https://github.com/DarthSim/quantizr
 
-Documentation: https://github.com/DarthSim/quantizr/blob/v%7B%7B%20version%20%7D%7D/README.md
+Documentation: https://github.com/DarthSim/quantizr/blob/v1.4.3/README.md
 
 Fast library for converting RGBA images to 8-bit palette images. Written in Rust; can be used in C programs.
 
